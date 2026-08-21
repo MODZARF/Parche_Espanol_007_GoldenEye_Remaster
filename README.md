@@ -12,4 +12,4 @@ El parcheador busca los offsets exactos de los textos en base a un archivo con e
 2. Selecciona la carpeta raíz del juego
 3. Listo
 
-Creado por MODZARF
+Creado por ZARF
