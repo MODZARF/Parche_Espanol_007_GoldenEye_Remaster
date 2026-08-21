@@ -31,7 +31,6 @@ def aplicar_parche(ruta_zarf, ruta_original):
     with open(ruta_zarf, 'r', encoding='utf-8', errors='ignore') as f:
         lineas = f.readlines()
 
-    # Agrupamos todo por archivo para abrir cada archivo solo 1 vez
     parches_por_archivo = {}
     archivo_actual = None
     ruta_actual = ""
